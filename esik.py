@@ -38,6 +38,10 @@ def main():
             if a % dzielnik == 0:
                 print("Nie pierwsza")
         print("Pierwsza")
+
+    def zad5():
+        n = 2
+
     #zad1()
     #zad2()
     #zad3()
